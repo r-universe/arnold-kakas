@@ -5,3 +5,6 @@
 [submodule "kpiwidget"]
 	path = kpiwidget
 	url = https://github.com/arnold-kakas/kpiwidget
+[submodule "paddleR"]
+	path = paddleR
+	url = https://github.com/arnold-kakas/paddler
